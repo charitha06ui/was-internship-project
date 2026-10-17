@@ -1,0 +1,7 @@
+*.pem
+*.ppk
+*.csv
+.env
+credentials
+config
+.DS_Store
